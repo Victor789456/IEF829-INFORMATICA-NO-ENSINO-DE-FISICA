@@ -52,6 +52,7 @@ $$\nabla X \vec{E} = - \dfrac{\partial \vec{B}}{\partial \vec{t}}$$
 
 
 
+![raposa](https://user-images.githubusercontent.com/76403123/204638887-bb55b728-e8b4-4c87-8e31-8e3948b08e65.jpg)
 
 
 
